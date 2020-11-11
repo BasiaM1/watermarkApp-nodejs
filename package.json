@@ -1,0 +1,12 @@
+{
+  "name": "watermarkApp-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:BasiaM1/watermarkApp-nodejs.git",
+  "author": "BasiaM1 <b.murzynowska@wp.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
